@@ -2,7 +2,7 @@
    // Create an array and push on the names
    // of your closest family and friends
    $myBigFriends = array("Taylor Vixen");
-   array_push($myBigFriends, "Sora Aoi");
+   array_push($myBigFriends, "Sola Aoi");
    array_push($myBigFriends, "Maria Ozawa");
    array_push($myBigFriends, "August Ames");
    array_push($myBigFriends, "Fucking Name");
